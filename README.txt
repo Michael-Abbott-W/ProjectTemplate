@@ -1,1 +1,1 @@
-This is a template readme file
+This is a template repository for any general project
