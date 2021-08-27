@@ -1,0 +1,8 @@
+# exclude MacOS ds_store files
+.DS_Store*
+
+# exclude everything in Folder NotTracked
+NotTracked/*
+
+# exception to the rule (we need to keep the empty file .gitkeep because git won't commit empty folders)
+!NotTracked/.gitkeep
