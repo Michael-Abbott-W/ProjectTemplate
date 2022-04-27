@@ -6,14 +6,10 @@ Description:  This is the file guide for my template project.
               Below the tree, list each element (folders and files) of the tree in the order they appears in the tree.
               Place an indented description beneath each of these elements.
               
-*Place Tree Here*            
-              
-ProjectTemplate
-README.txt
+*Place Tree Here*                         
+
+AddUnTrackedMaterial.txt
+  Explains how to add the necessary materials that are not tracked by git.
 FileGuide.txt
-NotTracked
-  This folder is where I will keep all material that I don't want to track with github.
-  This may include large data files or sensitive materials.
-  IE this folder will always be empty except for some files with instructions on how to fill it
-AddNotTrackedMaterial.txt
-  Explains how to fill this folder with the necessary materials.
+README.txt
+  
